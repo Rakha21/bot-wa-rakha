@@ -25,24 +25,25 @@
  
 </details>
 
-ini semua gratis, jangan pelit ⭐️ ya :D
+INI ADALAH BOT BUATAN RAKHA MHDZZ
 <p align="center"><a href="https://wa.me/6282138746029?text=%23menu" target="_blank">My Whatsapp BOT</a>.</p>
 <p align="center"><a href="https://wa.me/6282138746029?text=hi" target="_blank">My Whatsapp</a>.</p>
 </div>
 
 ## Getting Started
 
-This project require NodeJS v12.
+> This project require NodeJS v12.
+> Install From Chrome
 
 ### Install
-Clone this project
+## Clone this project
 
 ```bash
 > git clone https://github.com/Rakha21/bot-wa-rakha
 > cd bot-wa-rakha
 ```
 
-Install the dependencies:
+# Install the dependencies:
 
 ```bash
 > npm install 
@@ -50,16 +51,16 @@ Install the dependencies:
 ```
 
 ### Usage
-Run the Whatsapp bot
+## Run the Whatsapp bot
 
 ```bash
 > npm start
 ```
 
-after running it you need to scan the qr
+# after running it you need to scan the qr
 
-### Information
--INI BOT RAKHA21
+## Information
+# INI BOT RAKHA MHDZZ
 
 ---
 
@@ -163,12 +164,14 @@ after running it you need to scan the qr
 
 
 ## To-Do
- -RAKHA21
+# RAKHA21
  
 ---
 
 ## Troubleshooting
--RAKHA21
+-wa.me/6282138746029
 
 ## Thanks to
-## Thanks to
+# ALLAH SWT
+# LAPTOP KEMTANK : ASUS ROG RAM 12 ROM 1TB
+# HP KEMTANG : XIAOMI BLACK SHARK 2 RAM 12 ROM 512
