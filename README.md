@@ -19,7 +19,7 @@
 </p>
 <div align="center">
 <details>
- <summary>🥟 Help me!</summary>
+ <summary>🥟 Hi,I'm RAKHA MHDZZ</summary>
  
  [Trakteer](NONE)
  
