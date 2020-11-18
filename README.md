@@ -1,5 +1,5 @@
 <p align="center">
-<img src="XXX" width="128" height="128"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fjalantikus.com%2Ftips%2Fgambar-anime-keren%2F&psig=AOvVaw3JWUI0Psfc-1qbLEmZUOPV&ust=1605785352079000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj41-H-i-0CFQAAAAAdAAAAABAD" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="bot-wa-rakha" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
