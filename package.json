@@ -6,15 +6,15 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "ArugaZ",
+  "author": "RakhA21",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArugaZ/whatsapp-bot.git"
+    "url": "https://github.com/Rakha21/bot-wa-rakha.git"
   },
   "bugs": {
-    "url": "https://github.com/ArugaZ/whatsapp-bot/issues"
+    "url": "https://github.com/Rakha21/bot-wa-rakha/issues"
   },
-  "homepage": "https://github.com/ArugaZ/whatsapp-bot",
+  "homepage": "https://github.com/Rakha21/bot-wa-rakha",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.16",
