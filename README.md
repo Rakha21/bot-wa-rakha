@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars1.githubusercontent.com/u/53950128?s=460&u=09f530e3326f710c4e0f9106f094eeea5429f86d&v=4" width="128" height="128"/>
+<img src="XXX" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="bot-wa-rakha" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -35,7 +35,7 @@ INI ADALAH BOT BUATAN RAKHA MHDZZ
 > This project require NodeJS v12.
 > Install From Chrome
 
-### Install
+# Install
 ## Clone this project
 
 ```bash
@@ -43,28 +43,28 @@ INI ADALAH BOT BUATAN RAKHA MHDZZ
 > cd bot-wa-rakha
 ```
 
-# Install the dependencies:
+### Install the dependencies:
 
 ```bash
 > npm install 
 > npm install gify-cli -g
 ```
 
-### Usage
-## Run the Whatsapp bot
+# Usage
+### Run the Whatsapp bot
 
 ```bash
 > npm start
 ```
 
-# after running it you need to scan the qr
+### after running it you need to scan the qr
 
-## Information
-# INI BOT RAKHA MHDZZ
+# Information
+### INI BOT RAKHA MHDZZ
 
 ---
 
-## Features
+# Features
 
 | 18+ |Yes|
 | ------------- | ------------- |
@@ -164,14 +164,14 @@ INI ADALAH BOT BUATAN RAKHA MHDZZ
 
 
 ## To-Do
-# RAKHA21
+### RAKHA21
  
 ---
 
 ## Troubleshooting
--wa.me/6282138746029
+-https://wa.me/6282138746029
 
 ## Thanks to
-# ALLAH SWT
-# LAPTOP KEMTANK : ASUS ROG RAM 12 ROM 1TB
-# HP KEMTANG : XIAOMI BLACK SHARK 2 RAM 12 ROM 512
+### ALLAH SWT
+### LAPTOP KEMTANK : ASUS ROG RAM 12 ROM 1TB
+### HP KEMTANG : XIAOMI BLACK SHARK 2 RAM 12 ROM 512
